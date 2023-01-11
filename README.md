@@ -1,5 +1,5 @@
 # Qt_Snake
-Qt, C++
+Simple Snake game with Qt
 Snake game
 
 below are examples
