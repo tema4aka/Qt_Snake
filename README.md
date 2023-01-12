@@ -1,5 +1,5 @@
 # Qt_Snake
-Simple Snake game with Qt
+Simple Snake game
 Snake game
 
 below are examples
